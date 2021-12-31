@@ -1,0 +1,24 @@
+{
+  "name": "html-css-playgroud",
+  "version": "1.0.0",
+  "description": "HTML CSS 调试",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaex/html-css-playgroud.git"
+  },
+  "author": "Aex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adaex/html-css-playgroud/issues"
+  },
+  "homepage": "https://github.com/adaex/html-css-playgroud#readme"
+}
